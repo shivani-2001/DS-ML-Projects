@@ -1,2 +1,2 @@
 # DS-ML-Projects
-Some minor projects of data science and machine learning and deep learning
+Major and Minor projects in data science, machine learning and deep learning.
